@@ -1,1 +1,1 @@
-#Telegram-бот ExchangeBOT
+#Telegram-бот по обмену валюты
